@@ -1,0 +1,3 @@
+﻿  client.cpp
+C:\Users\Asus\Downloads\PerfectGame-master\PerfectGameClient\client.cpp(109,10): warning C4244: аргумент: преобразование "double" в "unsigned long", возможна потеря данных
+  PerfectGameClient.vcxproj -> C:\Users\Asus\Downloads\PerfectGame-master\x64\Debug\PerfectGameClient.exe

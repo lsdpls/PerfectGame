@@ -1,0 +1,3 @@
+﻿  GameState.cpp
+C:\Users\Asus\Downloads\PerfectGame-master\GameState\GameState.cpp(44,40): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
+  GameState.vcxproj -> C:\Users\Asus\Downloads\PerfectGame-master\x64\Debug\GameState.dll
