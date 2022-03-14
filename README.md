@@ -5,3 +5,4 @@
 В первую очередь необходимо запустить сервер - GameManager.exe, затем клиент PerfectGameClient.exe и ввести имя.
 
 Для сборки необходима библиотека SFML (https://ravesli.com/graficheskaya-biblioteka-sfml-vstuplenie-i-ustanovka/)
+Также при запуске через .exe файлы air.png ground.png chel_l.png chel_r.png caviar-dreams.ttf sfml-graphics-d-2.dll sfml-system-d-2.dll sfml-window-d-2.dll поместить в соответствующую папку.
